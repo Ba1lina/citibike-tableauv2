@@ -2,6 +2,9 @@
 
 This Project aims to identify the impact of COVID on New York's Citi Bike Usage, by looking at data from July 2019, which is a normal year to compare to, to July 2021, when restrictions were completely lifted.
 
+The tableau dashboard can be found here:
+https://public.tableau.com/views/CitibikeTablaeuAssignment/COVIDImpact?:language=en-US&:display_count=n&:origin=viz_share_link
+
 # Project Structure
 
 ```
