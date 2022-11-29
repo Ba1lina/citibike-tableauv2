@@ -7,8 +7,11 @@ This Project aims to identify the impact of COVID on New York's Citi Bike Usage,
 ```
 project
 |__ .gitignore          # gitignore file
-|__ Project 1 PPT - Group6.pdf    # slides for presentation
-| 
+|__ .gitattributes          # gitattributes file
+|__ citibike_data    # contains files downloaded for cleaning per month, files are not on GitHub due to size
+|__ output_data    # contains cleaned files for Tableau
+|   |__allstations.csv # data of all bikestation locations
+|   |__extract_bikedata.csv # extract of bikedata as too large for GitHub
 
 ```
 
